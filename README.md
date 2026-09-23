@@ -15,7 +15,7 @@ observed — never from a scenario identifier or an expected outcome.
 
 ## 📄 Technical report
 Full report (method, ablation studies, failure analysis, responsible-AI statement):
-[`SENTINEL_Technical_Report.pdf`](./SENTINEL_Technical_Report.pdf) · [LaTeX source](./SENTINEL_Technical_Report.tex)
+[`SENTINEL_Technical_Report.pdf`](./SENTINEL_Technical_Report.pdf) · 
 
 ## 📝 Design log
 The complete, real-time engineering journal — every bug found, every fix, every version (v1 → v4):
